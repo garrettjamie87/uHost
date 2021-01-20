@@ -55,24 +55,34 @@ body {
 }
 
 .plan__title {
-  color:#0e4f1f;
+  color: #0e4f1f;
 }
 
 .plan__price {
-  color: #817f7f
+  color: #817f7f;
 }
 
-.plan--highlighted .plan__title{
+.plan--highlighted .plan__title {
   color: white;
 }
 
-.plan--highlighted .plan__price{
-  color: #0e4f1f
+.plan--highlighted .plan__price {
+  color: #0e4f1f;
 }
 
 .plan__features li {
   margin: 8px 0;
 }
+
+.button {
+  background: #0e4f1f;
+  color: white;
+  font: inherit;
+  border: 1.5px solid #0e4f1f;
+  padding: 8px;
+  border-radius: 8px;
+}
+
 .main-header {
   width: 100%;
   background: #2ddf5c;
