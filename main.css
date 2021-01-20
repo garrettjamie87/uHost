@@ -91,6 +91,10 @@ button:active {
   color: #0e4f1f;
 }
 
+.button:focus {
+  outline: none;
+}
+
 .main-header {
   width: 100%;
   background: #2ddf5c;
