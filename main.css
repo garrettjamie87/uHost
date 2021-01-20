@@ -85,6 +85,12 @@ body {
   cursor: pointer;
 }
 
+button:hover,
+button:active {
+  background-color: white;
+  color: #0e4f1f;
+}
+
 .main-header {
   width: 100%;
   background: #2ddf5c;
