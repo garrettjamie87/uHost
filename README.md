@@ -1,3 +1,3 @@
 # uHost
 
-A simple multi-page website for a hosting company => Using Sass, advanced CSS and JS.
+A responsive multi-page website for a hosting company => using Sass, advanced CSS and JS.
