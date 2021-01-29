@@ -44,7 +44,7 @@ main {
 .signup-form input:focus,
 .signup-form select:focus {
     outline: none;
-    background: #d8f3df;
+    background: #ebca83;
     border-color: #2ddf5c;
 }
 
@@ -66,8 +66,8 @@ main {
 .signup-form input.invalid,
 .signup-form select.invalid,
 .signup-form :invalid {
-    border-color: red !important;
-    background: #faacac;
+    border-color: rgb(238, 212, 212) !important;
+    background: #d8f3df;
 }
 
 .signup-form button[type="submit"] {
